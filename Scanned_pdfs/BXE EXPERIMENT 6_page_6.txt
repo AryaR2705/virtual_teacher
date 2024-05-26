@@ -1,0 +1,19 @@
+Screenshot of Non-inverting amplifier input and output waveforms: (Peak outputvoltage
+
+must be visible)
+
+Ad Bet a ll
+
+. Px >
+“7 Time Channel_A Channel_B
+oe foe 1.460 s 798.013 mV 2.392 V Reverse
+- 11 12 [ells] 1.460 s 798.013 mV 2.392 V
+..172-T1 0.000 s 0.000 V 0.000 V Save ;
+Ext. trigger
+‘- | Timebase Channel A Channel B Trigger
+: : | Seale: 2 ms/Div Scale: | 2 V/Div Scale: 2 V/Div Edge: ¥F
+‘ * |X pos.(Div): 4.6 Y pos.(Div): | -0.8 Y pos.(Div): 1.2 Level: | | Vv
+: a Add B/A_ A/B AC 0 AC O = Single Normal Auto
+=a — ;
+
+Vishwakarma Institute of Information Technology, Pune.

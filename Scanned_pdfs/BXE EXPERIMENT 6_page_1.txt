@@ -1,0 +1,41 @@
+Lab Manual —Basic electronics Engineering Pattern 2020
+
+Aim: Simulate Inverting and Non-inverting amplifier using Op-amp.
+
+Software: Multisim software
+
+Theory:
+
+It is basic job of operational amplifier is to amplify the signal .Op-amp circuit is
+built using different capacitors and registers. Op-amp is able to perform different
+mathematical operations such as addition, subtraction, differentiation and integration.
+It amplifies the difference between two input signals. It is also called as differential
+
+amplifier.
+
+Symbol of Op-amp
+
++Vicc
+
+Non-inverting
+terminal Vo
+
+OPAMP
+
+inverting =
+terminal
+
+Circuit of Inverting amplifier:-
+
+In an inverting amplifier circuit, the operational amplifier inverting input receives
+feedback from the output of the amplifier. Assuming the op-amp is ideal and applying the
+concept of virtual short at the input terminals of op-amp, the voltage at the inverting terminal
+is equal to non-inverting terminal. The non-inverting input of the operational amplifier 1s
+connected to ground. As the gain of the op amp itself 1s very high and the output from the
+amplifier is a matter of only a few volts, this means that the difference between the two input
+terminals is exceedingly small and can be ignored. As the non-inverting input of the
+operational amplifier is held at ground potential this means that the inverting input must be
+
+virtually at earth potential.
+
+Vishwakarma Institute of Information Technology, Pune.

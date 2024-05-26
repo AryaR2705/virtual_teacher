@@ -1,0 +1,15 @@
+Lab Manual —Basic electronics Engineering Pattern 2020
+
+Name: Sankalp Tembhurne
+Roll No.: 758
+G.R. No.: 22111127
+
+Batch: G3
+
+EXPERIMENT NO: 06
+
+TITLE OF EXPERIMENT: Simulate Inverting and Non-inverting amplifier using
+
+Op-amp.
+
+Vishwakarma Institute of Information Technology, Pune.

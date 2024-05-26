@@ -1,0 +1,19 @@
+Lab Manual —Basic electronics Engineering Pattern 2020
+
+Observation Table:
+
+For Non-inverting Amplifier:
+
+Practical gain Theoretical gain
+A,= Vout / Vin A, = 1+ (R:/ R:)
+1div*2v/div=2div*2vdiv= 1+2=3
+
+Conclusion:
+
+1) Theoretical Voltage gain=Practical Voltage Gain for inverting and non
+
+invertingamplifiers.
+
+2) Thus we have studied how to simulate Inverting and Non Inverting
+
+amplifiers usingOp-amp.

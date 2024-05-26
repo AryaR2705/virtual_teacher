@@ -1,0 +1,15 @@
+Lab Manual —Basic electronics Engineering Pattern 2020
+
+Observation Table:
+
+For Inverting Amplifier:
+
+Practical gain Theoretical gain
+A,= Vout / Vin A,= _— R,/ R,,
+
+1div*2v/div= 2div*2v/div -2/1=-2
+2V —4V
+
+Screenshot of Non-inverting amplifier Circuit: (Must have title, your name, batch and
+roll no. written in the text box)
+

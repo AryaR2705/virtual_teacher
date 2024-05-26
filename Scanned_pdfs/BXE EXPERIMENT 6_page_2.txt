@@ -1,0 +1,22 @@
+Lab Manual —Basic electronics Engineering Pattern 2020
+
+Applying KCL at inverting node we can calculate voltage gain,
+
+Voltage gain (A)= Vou/ Vin=— Re/Rin
+
+Circuit of Non-inverting amplifier:-
+
+The non-inverting amplifier is one in which the output is in phase with respect to the input.
+The feedback is applied at the inverting input. However, the input is now applied at the non-
+inverting input. The output is a non-Inverted (in terms of phase) amplified version of
+input. The gain of the non-inverting amplifier circuit for the operational amplifier is easy to
+
+determine.
+
+& Vout
+
+The voltage gain can be calculated by applying KCL at the inverting node,
+
+Voltage gain (A) = Vou/ Vin= 1+ (Re/ Ro)
+
+Vishwakarma Institute of Information Technology, Pune.

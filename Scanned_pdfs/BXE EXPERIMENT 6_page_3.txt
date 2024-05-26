@@ -1,0 +1,31 @@
+Lab Manual —Basic electronics Engineering Pattern 2020
+
+Procedure
+1. Draw the circuit of inverting and non-inverting amplifier in Multisim.
+2. Find the output voltage, Vout,peak and the input voltage Vin,peak on CRO or by
+using interactive/transient analysis for both the circuits.
+3. Calculate the practical and theoretical gain:
+
+Practical gain using formula Vout,peak / Vin,peak
+
+Screenshot of inverting amplifier Circuit: (Must have title, your name, batch and roll
+no. written in the text box)
+
+Screenshot of inverting amplifier input and output waveforms: (Peak output voltage
+
+must be visible)
+
+< =
+T1 [+> Time Channel_A Channel_B
+3.500 s -129.073 mV 255.225 mv Reverse
+2 Sis 3.500 s -129.073 mv 255.225 mv
+T2-Ti 0.000 s 0.000 V 0.000 V Save ;
+Ext. trigger
+
+Timebase Channel A Channel B Trigger
+
+Scale: | 1 ms/Div Scale: | 2 V/Div | Scale: | 2 V/Div Edge: :.
+X pos.(Div): | 0 Y pos.(Div): | -1-.4 Y pos.(Div): | 0.8 Level: fa) | Vv
+
+Add || B/A || A/B Ac! oO AC!) Oo 2 Single Normal Auto |
+
