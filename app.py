@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the CSV file
-csv_path = "pratik.csv"
+csv_path = "dataset.csv"
 df = pd.read_csv(csv_path)
 
 # Define a function to predict marks for a given answer
